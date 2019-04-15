@@ -1,1 +1,3 @@
-function __()
+function __(a,b) {
+  
+}
