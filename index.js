@@ -33,6 +33,5 @@ describe('makeInt(n)', function() {
 })
 */
 function makeInt(a) {
-  if ()
   return parseInt(a, 10);
 }
